@@ -1,0 +1,11 @@
+alert("This Works");
+let userName="Deepak";
+alert(userName);
+userName="Shilpa";
+alert(userName);
+const FINALMARKS=100;
+alert(FINALMARKS);
+let maths=65;
+let science=80;
+let totalMarks=maths+science;
+alert("Total Marks " +totalMarks);
